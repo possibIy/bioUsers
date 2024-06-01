@@ -20,7 +20,8 @@
     "Youtube": "https://www.youtube.com/user/example",
     "OG": true,
     "Staff": true,
-    "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
+    "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3",
+    "MinecraftFont": true
   },
   "fzve": {
     "PfpURL": "https://images-ext-1.discordapp.net/external/ppbE_g0g8-oy25EqX8sXJsIoBCz56TZ_K6Z2HToCNq4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1103469885415235665/74d942e37e046e08b8db40c22974372c.webp?format=webp",
@@ -31,7 +32,8 @@
     "ExtraSocial": ["https://dx9.pro/"],
     "OG": true,
     "Staff": true,
-    "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
+    "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3",
+    "MinecraftFont": true
   },
   "dx9": {
     "BackgroundURL": "https://r2-bios.e-z.host/08bc3c09-2cb7-4155-a261-f41abd021c4f/w9jp7y3kku.png",
