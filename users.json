@@ -60,5 +60,18 @@
     "OG": true,
     "Staff": true,
     "MusicURL": "https://files.catbox.moe/jti28s.mp3"
+  },
+  {
+  "zee": {
+    "Banner": "https://i.pinimg.com/564x/bf/5a/cf/bf5acf7094342a899d9b78ad4bb490e3.jpg",
+    "PfpURL": "https://i.pinimg.com/564x/a2/6a/26/a26a26ee7a603e778f462dee9dd41100.jpg",
+    "Name": "zee",
+    "Description": "zee.",
+    "Blur": true,
+    "BorderPFP": true,
+    "Instagram": "https://www.instagram.com/hkoodo600",
+    "OG": true,
+    "Staff": true,
+    "MusicURL": "https://cdn.discordapp.com/attachments/1137957058294075413/1246636623253475329/y2mate.com_-_LA_Capone_ft_Huncho_Hoodo_Some_More_Official_Video_Shot_By_DADAcreative.mp3?ex=665d1c54&is=665bcad4&hm=68b0d3823c4976e8cff7b8f39fa48e6e1a91fe6b1514a2d2bc65c572b1ed6288&"
   }
 }
