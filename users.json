@@ -1,5 +1,6 @@
 {
   "example": {
+    "Rounded": true,
     "BackgroundURL": "https://storage.needpix.com/rsynced_images/white-ring.jpg",
     "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
     "PfpURL": "https://images-ext-1.discordapp.net/external/ppbE_g0g8-oy25EqX8sXJsIoBCz56TZ_K6Z2HToCNq4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1103469885415235665/74d942e37e046e08b8db40c22974372c.webp?format=webp",
@@ -43,7 +44,8 @@
     "TiltEffect": true,
     "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
   },
-  "dx9": {
+  "dx9": {'
+    "Rounded": true,
     "BackgroundURL": "https://r2-bios.e-z.host/08bc3c09-2cb7-4155-a261-f41abd021c4f/w9jp7y3kku.png",
     "PfpURL": "https://r2-bios.e-z.host/08bc3c09-2cb7-4155-a261-f41abd021c4f/40oixcm1wx.gif",
     "Name": "DX9WARE",
@@ -61,6 +63,7 @@
     "MusicURL": "https://files.catbox.moe/bjng9j.mp3"
   },
   "bay": {
+    "Rounded": true,
     "BackgroundURL": "https://imgur.com/xFriIpR.png",
     "PfpURL": "https://imgur.com/Bpx4zZw.png",
     "Name": "Bay",
@@ -73,6 +76,7 @@
     "MusicURL": "https://files.catbox.moe/jti28s.mp3"
   },
   "zee": {
+    "Rounded": true,
     "Banner": "https://i.pinimg.com/564x/bf/5a/cf/bf5acf7094342a899d9b78ad4bb490e3.jpg",
     "PfpURL": "https://i.pinimg.com/564x/a2/6a/26/a26a26ee7a603e778f462dee9dd41100.jpg",
     "Name": "zee",
@@ -85,6 +89,7 @@
     "MusicURL": "https://cdn.discordapp.com/attachments/1137957058294075413/1246636623253475329/y2mate.com_-_LA_Capone_ft_Huncho_Hoodo_Some_More_Official_Video_Shot_By_DADAcreative.mp3?ex=665d1c54&is=665bcad4&hm=68b0d3823c4976e8cff7b8f39fa48e6e1a91fe6b1514a2d2bc65c572b1ed6288&"
   },
   "isu": {
+    "Rounded": true,
     "BackgroundURL": "https://media.discordapp.net/attachments/1100321333600075818/1246647003937636432/3840x2160-black-solid-color-background_1.jpg?ex=665d25ff&is=665bd47f&hm=637eba6755f2a9b6e9fac0f394b87dbfdd89644713b466ec0f45a2dd1c004e6f&=&format=webp&width=1544&height=869",
     "Banner": "https://media.discordapp.net/attachments/1100321333600075818/1246646814346575872/text_isu_1.png?ex=665d25d2&is=665bd452&hm=88902f7b893b343a83cf518768572625d6fdfea7b7f301db99d673ad3f2680e6&=&format=webp&quality=lossless&width=1544&height=869",
     "PfpURL": "https://media.discordapp.net/attachments/1100321333600075818/1246646814006968391/images_1.png?ex=665d25d2&is=665bd452&hm=63ae87f88e3a718b33499f9f80489e78c36bef6f5f34fbe74c7318bbae1321c7&=&format=webp&quality=lossless&width=247&height=247",
