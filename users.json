@@ -85,6 +85,7 @@
     "Name": "Isu",
     "Description": "Ignominious Saccade Umpire.",
     "Blur": true,
+    "TiltEffect": true,
     "BorderPFP": true,
     "Discord": "https://discord.gg/coi",
     "Steam": "https://steamcommunity.com/id/JordanianTerrorist",
