@@ -43,12 +43,15 @@
     "Blur": true,
     "BorderPFP": true,
     "Discord": "https://discord.gg/coi",
-    "ExtraSocial": ["https://cultofintellect.com", "https://cultofintellect.com/docs/"],
+    "ExtraSocial": [
+      "https://cultofintellect.com",
+      "https://cultofintellect.com/docs/"
+    ],
     "OG": true,
     "Staff": true,
     "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
   },
-    "bay": {
+  "bay": {
     "BackgroundURL": "https://imgur.com/xFriIpR.png",
     "PfpURL": "https://imgur.com/Bpx4zZw.png",
     "Name": "Bay",
@@ -61,7 +64,6 @@
     "Staff": true,
     "MusicURL": "https://files.catbox.moe/jti28s.mp3"
   },
-  {
   "zee": {
     "Banner": "https://i.pinimg.com/564x/bf/5a/cf/bf5acf7094342a899d9b78ad4bb490e3.jpg",
     "PfpURL": "https://i.pinimg.com/564x/a2/6a/26/a26a26ee7a603e778f462dee9dd41100.jpg",
