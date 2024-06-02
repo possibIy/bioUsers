@@ -107,5 +107,16 @@
     "OG": true,
     "Staff": true,
     "MusicURL": "https://dl.sndup.net/tm3b7/octobersveryown-%20popstyle%20(i%20gave%20in).mp3"
+  },
+  "a": {
+    "Rounded": true,
+    "PfpURL": "https://files.catbox.moe/ftf13w.webp",
+    "Name": "@a",
+    "Description": "👋",
+    "Blur": true,
+    "TiltEffect": true,
+    "OG": true,
+    "Staff": true,
+    "MusicURL": "https://files.catbox.moe/7iwpv6.mp3"
   }
 }
