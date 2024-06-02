@@ -21,6 +21,7 @@
     "Youtube": "https://www.youtube.com/user/example",
     "OG": true,
     "Staff": true,
+    "TiltEffect": true,
     "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
   },
   "fzve": {
@@ -33,6 +34,7 @@
     "ExtraSocial": ["https://dx9.pro/"],
     "OG": true,
     "Staff": true,
+    "TiltEffect": true,
     "MusicURL": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/85iqlrdmkl.mp3"
   },
   "dx9": {
@@ -49,6 +51,7 @@
     ],
     "OG": true,
     "Staff": true,
+    "TiltEffect": true,
     "MusicURL": "https://files.catbox.moe/bjng9j.mp3"
   },
   "bay": {
