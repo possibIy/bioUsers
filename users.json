@@ -1,6 +1,7 @@
 {
   "example": {
     "BackgroundURL": "https://storage.needpix.com/rsynced_images/white-ring.jpg",
+    "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
     "PfpURL": "https://images-ext-1.discordapp.net/external/ppbE_g0g8-oy25EqX8sXJsIoBCz56TZ_K6Z2HToCNq4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1103469885415235665/74d942e37e046e08b8db40c22974372c.webp?format=webp",
     "Name": "Example",
     "Description": "An example description",
@@ -24,6 +25,7 @@
   },
   "fzve": {
     "PfpURL": "https://images-ext-1.discordapp.net/external/ppbE_g0g8-oy25EqX8sXJsIoBCz56TZ_K6Z2HToCNq4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1103469885415235665/74d942e37e046e08b8db40c22974372c.webp?format=webp",
+    "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
     "Name": "FZVE",
     "Description": "My description chat",
     "Blur": true,
