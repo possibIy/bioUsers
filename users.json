@@ -118,5 +118,17 @@
     "OG": true,
     "Staff": true,
     "MusicURL": "https://files.catbox.moe/7iwpv6.mp3"
-  }
+  },
+  "gspu": {
+  "MusicURL": "https://files.catbox.moe/s7b2aq.mp3",
+  "BackgroundURL": "https://usrbg.is-hardly.online/usrbg/v2/700974854605766737?573f=&size=4096",
+  "PfpURL": "https://cdn.discordapp.com/avatars/700974854605766737/1f35c3f34c3fd39b5de217d4f4b1a242.webp?size=4096",
+  "Banner": "https://i.pinimg.com/originals/bd/ac/42/bdac4285eda6bb55590995ec3c26a255.jpg",
+  "Name": "gspu",
+  "TiltEffect": "true",
+  "Rounded": "true",
+  "Discord": "https://discord.com/users/700974854605766737",
+  "Steam": "https://steamcommunity.com/id/SoSpoof/",
+  "OG": "true"
+}
 }
