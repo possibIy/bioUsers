@@ -38,7 +38,6 @@
     "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
     "Name": "FZVE",
     "Description": "My description chat",
-    "Blur": true,
     "BorderPFP": true,
     "ExtraSocial": ["https://dx9.pro/"],
     "OG": true,
@@ -66,6 +65,7 @@
   },
   "bay": {
     "Rounded": true,
+    "ClearBlackBackground": true,
     "BackgroundURL": "https://imgur.com/xFriIpR.png",
     "PfpURL": "https://imgur.com/Bpx4zZw.png",
     "Name": "Bay",
@@ -126,6 +126,7 @@
     "Name": "gspu",
     "TiltEffect": "true",
     "Rounded": "true",
+    "ClearBlackBackground": true,
     "Discord": "https://discord.com/users/700974854605766737",
     "Steam": "https://steamcommunity.com/id/SoSpoof/",
     "OG": "true"
