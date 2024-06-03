@@ -177,5 +177,20 @@
     "Youtube": "https://www.youtube.com/channel/UCZBP41uqzkzNC6AYgnXzhVw",
     "OG": "true",
     "Staff": "true"
+  },
+  "crim": {
+    "MusicURL": "https://cdn.nest.rip/uploads/4b0b9257-be83-4b4b-8c53-7e096cfbfb49.mp3",
+    "BackgroundURL": "https://cdn.nest.rip/uploads/53647c86-766f-4b04-bed4-ed7fad4bbcd1.png",
+    "PfpURL": "https://cdn.nest.rip/uploads/be708b45-9d50-44ee-ad49-a17889ecd203.png",
+    "Name": "crim",
+    "Description": "\"Rich, Tall, Charming\"",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "TiltEffect": "true",
+    "Rounded": "true",
+    "Discord": "https://discordapp.com/users/1044615012104282153",
+    "Steam": "https://steamcommunity.com/id/crim0431/",
+    "Github": "https://github.com/svcrim",
+    "OG": "true"
   }
 }
