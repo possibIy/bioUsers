@@ -43,7 +43,7 @@
     "OG": true,
     "Staff": true,
     "TiltEffect": true,
-    "MusicURL": "https://files.catbox.moe/lr1uzz.mp3"
+    "MusicURL": "https://files.catbox.moe/s7b2aq.mp3"
   },
   "dx9": {
     "Rounded": true,
@@ -191,6 +191,18 @@
     "Discord": "https://discordapp.com/users/1044615012104282153",
     "Steam": "https://steamcommunity.com/id/crim0431/",
     "Github": "https://github.com/svcrim",
+    "OG": "true"
+  },
+  "j0an1s": {
+    "MusicURL": "https://files.catbox.moe/9sanyx.mp3",
+    "BackgroundURL": "https://files.catbox.moe/1od0g7.jpeg",
+    "PfpURL": "https://files.catbox.moe/1hnzkv.jpeg",
+    "Banner": "https://files.catbox.moe/rpw459.jpeg",
+    "Name": "j0an1s",
+    "Description": "“A minha conquista foi na raça eu não peço nada de graça nem choro a preço de nada”",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "SemiRounded": "true",
     "OG": "true"
   }
 }
