@@ -160,14 +160,13 @@
     "OG": "true",
     "Staff": "true"
   },
-  "kel": {
+  "x": {
     "MusicURL": "https://files.catbox.moe/6ol479.mp3",
     "BackgroundURL": "https://i.pinimg.com/236x/80/0e/4b/800e4be0b7ae4f5406abdca7ed15698e.jpg",
     "PfpURL": "https://i.pinimg.com/474x/0c/0a/72/0c0a729084c4c1d4593c8debf96fc298.jpg",
     "Banner": "https://i.pinimg.com/564x/19/02/4f/19024fb58f37f032d83800a42d482da4.jpg",
     "Name": "kel",
     "Description": "Always #1",
-    "Blur": "true",
     "BorderPFP": "true",
     "MinecraftFont": "true",
     "Discord": "https://discord.gg/intellect",
