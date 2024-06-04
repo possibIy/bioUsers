@@ -148,14 +148,15 @@
   },
   "shaq": {
     "MusicURL": "https://files.catbox.moe/lr1uzz.mp3",
-    "BackgroundURL": "https://files.catbox.moe/h5tm1f.gif",
+    "BackgroundURL": "https://files.catbox.moe/16fjk4.mp4",
     "Name": "Shaquille O'Neal",
     "Description": "\"I never worry about the problem. I worry about the solution.\" - Shaquille O'Neal",
+    "LessBlur": "true",
     "BorderPFP": "true",
     "Premium": "true",
     "Shaq": "true",
     "Donator": "true",
-    "Rounded": "true",
+    "SemiRounded": "true",
     "OG": "true",
     "Staff": "true"
   },
