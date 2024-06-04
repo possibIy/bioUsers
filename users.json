@@ -205,5 +205,20 @@
     "BorderPFP": "true",
     "SemiRounded": "true",
     "OG": "true"
+  },
+  "ant": {
+    "MusicURL": "https://files.catbox.moe/1umxbl.mp3",
+    "BackgroundURL": "https://files.catbox.moe/jgastj.gif",
+    "PfpURL": "https://files.catbox.moe/hlmxd1.png",
+    "Name": "ant",
+    "Description": "...",
+    "ClearBlackBackground": "true",
+    "BorderPFP": "true",
+    "BorderSocials": "true",
+    "TiltEffect": "true",
+    "SemiRounded": "true",
+    "MinecraftFont": "true",
+    "Discord": "aloneinantarctica",
+    "Youtube": "https://www.youtube.com/channel/UC9vjWk4ZPbNoY1x1pgjcpaQ"
   }
 }
