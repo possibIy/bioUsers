@@ -1,5 +1,21 @@
 {
+  "uptight": {
+    "uid": "0",
+    "MusicURL": "",
+    "Name": "robloxarchiver/s1lentchrist",
+    "MinecraftFont": "true",
+    "TiltEffect": "true",
+    "OG": "true",
+    "Staff": "true",
+    "Premium": "true",
+    "Shaq": "true",
+    "Donator": "true",
+    "Discord": "https://discord.com/users/robloxarchiver",
+    "Github": "https://github.com/robloxarchiver",
+    "CashApp": "https://cash.app/$uptightsl"
+  },
   "example": {
+    "uid": "1",
     "Rounded": true,
     "BackgroundURL": "https://storage.needpix.com/rsynced_images/white-ring.jpg",
     "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
@@ -34,6 +50,7 @@
     ]
   },
   "fzve": {
+    "uid": "2",
     "MusicURL": "https://files.catbox.moe/s7b2aq.mp3",
     "BackgroundURL": "https://files.catbox.moe/sbd7t9.mp4",
     "Description": "Owner/Dev of kms.bio",
@@ -49,7 +66,26 @@
     "OG": "true",
     "Staff": "true"
   },
+  "shaq": {
+    "uid": "3",
+    "MusicURL": "https://files.catbox.moe/lr1uzz.mp3",
+    "BackgroundURL": "https://files.catbox.moe/0kd9j8.mp4",
+    "Name": "Shaquille O'Neal",
+    "Description": "\"I never worry about the problem. I worry about the solution.\" - Shaquille O'Neal",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "Ethereum": "0xb4aB9BbaFC021A5DDFC5F2A5C53570dA7635c4cE",
+    "Bitcoin": "bc1qaw70zx8xphvzrl0yjjnaacqzuvpg2ss7xk5sku",
+    "Litecoin": "LLvBNo3Q5UyEDcPrLZNgWgzFeGViWpvbqk",
+    "Premium": "true",
+    "Shaq": "true",
+    "Donator": "true",
+    "SemiRounded": "true",
+    "OG": "true",
+    "Staff": "true"
+  },
   "dx9": {
+    "uid": "4",
     "Rounded": true,
     "BackgroundURL": "https://r2-bios.e-z.host/08bc3c09-2cb7-4155-a261-f41abd021c4f/w9jp7y3kku.png",
     "PfpURL": "https://r2-bios.e-z.host/08bc3c09-2cb7-4155-a261-f41abd021c4f/40oixcm1wx.gif",
@@ -68,6 +104,7 @@
     "MusicURL": "https://files.catbox.moe/bjng9j.mp3"
   },
   "bay": {
+    "uid": "5",
     "Rounded": true,
     "BackgroundURL": "https://imgur.com/xFriIpR.png",
     "PfpURL": "https://imgur.com/Bpx4zZw.png",
@@ -81,6 +118,7 @@
     "MusicURL": "https://files.catbox.moe/jti28s.mp3"
   },
   "zee": {
+    "uid": "6",
     "MusicURL": "https://files.catbox.moe/eg0j2d.mp3",
     "PfpURL": "https://i.pinimg.com/564x/a2/6a/26/a26a26ee7a603e778f462dee9dd41100.jpg",
     "Banner": "https://i.pinimg.com/564x/bf/5a/cf/bf5acf7094342a899d9b78ad4bb490e3.jpg",
@@ -94,6 +132,7 @@
     "Staff": "true"
   },
   "isu": {
+    "uid": "7",
     "Rounded": true,
     "Banner": "https://files.catbox.moe/423yg3.webp",
     "PfpURL": "https://files.catbox.moe/kph6a4.webp",
@@ -111,6 +150,7 @@
     "MusicURL": "https://dl.sndup.net/tm3b7/octobersveryown-%20popstyle%20(i%20gave%20in).mp3"
   },
   "a": {
+    "uid": "8",
     "Rounded": true,
     "PfpURL": "https://files.catbox.moe/ftf13w.webp",
     "Name": "@a",
@@ -122,6 +162,7 @@
     "MusicURL": "https://files.catbox.moe/7iwpv6.mp3"
   },
   "gspu": {
+    "uid": "9",
     "MusicURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/c7n3ht33.mp3",
     "BackgroundURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/on58tcun.mp4",
     "PfpURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/xzx8d2zq.gif",
@@ -139,6 +180,7 @@
     "OG": "true"
   },
   "tepatepagE0UYkIYP7rdlhxKtfsRFrW5ssEXXHA": {
+    "uid": "10",
     "MusicURL": "https://r2.e-z.host/9307c86e-16e9-4f22-b004-c1c5d6079221/xgv820to.mp3",
     "BackgroundURL": "https://e-z.mom/xim8ergz.png",
     "PfpURL": "https://e-z.mom/xim8ergz.png",
@@ -153,24 +195,8 @@
     "OG": "true",
     "Staff": "true"
   },
-  "shaq": {
-    "MusicURL": "https://files.catbox.moe/lr1uzz.mp3",
-    "BackgroundURL": "https://files.catbox.moe/0kd9j8.mp4",
-    "Name": "Shaquille O'Neal",
-    "Description": "\"I never worry about the problem. I worry about the solution.\" - Shaquille O'Neal",
-    "LessBlur": "true",
-    "BorderPFP": "true",
-    "Ethereum": "0xb4aB9BbaFC021A5DDFC5F2A5C53570dA7635c4cE",
-    "Bitcoin": "bc1qaw70zx8xphvzrl0yjjnaacqzuvpg2ss7xk5sku",
-    "Litecoin": "LLvBNo3Q5UyEDcPrLZNgWgzFeGViWpvbqk",
-    "Premium": "true",
-    "Shaq": "true",
-    "Donator": "true",
-    "SemiRounded": "true",
-    "OG": "true",
-    "Staff": "true"
-  },
   "x": {
+    "uid": "11",
     "MusicURL": "https://files.catbox.moe/6ol479.mp3",
     "BackgroundURL": "https://i.pinimg.com/236x/80/0e/4b/800e4be0b7ae4f5406abdca7ed15698e.jpg",
     "PfpURL": "https://i.pinimg.com/474x/0c/0a/72/0c0a729084c4c1d4593c8debf96fc298.jpg",
@@ -190,6 +216,7 @@
     "Staff": "true"
   },
   "crim": {
+    "uid": "12",
     "MusicURL": "https://cdn.nest.rip/uploads/66910061-477d-40ac-a6fb-d9244406e571.mp3",
     "BackgroundURL": "https://cdn.nest.rip/uploads/53647c86-766f-4b04-bed4-ed7fad4bbcd1.png",
     "PfpURL": "https://cdn.nest.rip/uploads/be708b45-9d50-44ee-ad49-a17889ecd203.png",
@@ -205,6 +232,7 @@
     "OG": "true"
   },
   "j0an1s": {
+    "uid": "13",
     "MusicURL": "https://files.catbox.moe/9sanyx.mp3",
     "BackgroundURL": "https://files.catbox.moe/1od0g7.jpeg",
     "PfpURL": "https://files.catbox.moe/1hnzkv.jpeg",
@@ -217,6 +245,7 @@
     "OG": "true"
   },
   "ant": {
+    "uid": "14",
     "MusicURL": "https://files.catbox.moe/1umxbl.mp3",
     "BackgroundURL": "https://files.catbox.moe/jgastj.gif",
     "PfpURL": "https://files.catbox.moe/hlmxd1.png",
@@ -229,9 +258,11 @@
     "SemiRounded": "true",
     "MinecraftFont": "true",
     "Discord": "https://discordapp.com/users/1157658727432867902",
-    "Youtube": "https://www.youtube.com/channel/UC9vjWk4ZPbNoY1x1pgjcpaQ"
+    "Youtube": "https://www.youtube.com/channel/UC9vjWk4ZPbNoY1x1pgjcpaQ",
+    "OG": "true"
   },
   "stunna": {
+    "uid": "15",
     "MusicURL": "https://cdn.nest.rip/uploads/c656b136-e492-4f28-9408-b1a474c44c75.mp3",
     "BackgroundURL": "https://cdn.nest.rip/uploads/32f31b96-b351-4ddb-897a-c14835b30d41.mp4",
     "PfpURL": "https://cdn.nest.rip/uploads/6093774d-5a1d-4985-90cc-53b1786285fb.jpg",
