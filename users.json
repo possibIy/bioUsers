@@ -274,5 +274,18 @@
     "OG": "true",
     "Premium": "true",
     "Discord": "https://discord.com/users/1216744560601071736"
+  },
+  "walk": {
+    "uid": "16",
+    "MusicURL": "https://files.catbox.moe/26lo0p.mp3",
+    "BackgroundURL": "https://files.catbox.moe/j42doe.png",
+    "PfpURL": "https://files.catbox.moe/hmy9qi.png",
+    "Name": "WALK",
+    "BorderPFP": "true",
+    "Rounded": "true",
+    "TiltEffect": "true",
+    "OG": "true",
+    "Staff": "true",
+    "Discord": "https://discord.com/users/820857655139762187"
   }
 }
