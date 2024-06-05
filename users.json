@@ -14,8 +14,25 @@
     "Github": "https://github.com/robloxarchiver",
     "CashApp": "https://cash.app/$uptightsl"
   },
-  "example": {
+  "fzve": {
     "uid": "1",
+    "MusicURL": "https://files.pronhub.lol/fzvemusic.mp3",
+    "BackgroundURL": "https://files.pronhub.lol/fzvebackground.mp4",
+    "Description": "Owner/Dev of kms.bio",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "Premium": "true",
+    "Shaq": "true",
+    "Donator": "true",
+    "SemiRounded": "true",
+    "Ethereum": "0xb4aB9BbaFC021A5DDFC5F2A5C53570dA7635c4cE",
+    "Bitcoin": "bc1qaw70zx8xphvzrl0yjjnaacqzuvpg2ss7xk5sku",
+    "Litecoin": "LLvBNo3Q5UyEDcPrLZNgWgzFeGViWpvbqk",
+    "OG": "true",
+    "Staff": "true"
+  },
+  "example": {
+    "uid": "2",
     "Rounded": true,
     "BackgroundURL": "https://storage.needpix.com/rsynced_images/white-ring.jpg",
     "Banner": "https://r2-bios.e-z.host/c42a2798-1c0a-48b7-801e-dbd3503ac8ce/v4yev7mlz8.jpg",
@@ -48,23 +65,6 @@
         "title": "First Video"
       }
     ]
-  },
-  "fzve": {
-    "uid": "2",
-    "MusicURL": "https://files.pronhub.lol/fzvemusic.mp3",
-    "BackgroundURL": "https://files.pronhub.lol/fzvebackground.mp4",
-    "Description": "Owner/Dev of kms.bio",
-    "LessBlur": "true",
-    "BorderPFP": "true",
-    "Premium": "true",
-    "Shaq": "true",
-    "Donator": "true",
-    "SemiRounded": "true",
-    "Ethereum": "0xb4aB9BbaFC021A5DDFC5F2A5C53570dA7635c4cE",
-    "Bitcoin": "bc1qaw70zx8xphvzrl0yjjnaacqzuvpg2ss7xk5sku",
-    "Litecoin": "LLvBNo3Q5UyEDcPrLZNgWgzFeGViWpvbqk",
-    "OG": "true",
-    "Staff": "true"
   },
   "shaq": {
     "uid": "3",
