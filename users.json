@@ -230,5 +230,18 @@
     "MinecraftFont": "true",
     "Discord": "https://discordapp.com/users/1157658727432867902",
     "Youtube": "https://www.youtube.com/channel/UC9vjWk4ZPbNoY1x1pgjcpaQ"
+  },
+  "stunna": {
+    "MusicURL": "https://cdn.nest.rip/uploads/c656b136-e492-4f28-9408-b1a474c44c75.mp3",
+    "BackgroundURL": "https://cdn.nest.rip/uploads/32f31b96-b351-4ddb-897a-c14835b30d41.mp4",
+    "PfpURL": "https://cdn.nest.rip/uploads/6093774d-5a1d-4985-90cc-53b1786285fb.jpg",
+    "Name": "stunna",
+    "Description": "stunna x ck prob stole yo shi",
+    "BorderPFP": "true",
+    "MinecraftFont": "true",
+    "BorderSocials": "true",
+    "OG": "true",
+    "Premium": "true",
+    "Discord": "https://discord.com/users/1216744560601071736"
   }
 }
