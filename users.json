@@ -69,7 +69,7 @@
   "shaq": {
     "uid": "3",
     "MusicURL": "https://files.catbox.moe/lr1uzz.mp3",
-    "BackgroundURL": "https://files.pronhub.lol/videoplayback%20(5).mp4",
+    "BackgroundURL": "https://files.catbox.moe/0kd9j8.mp4",
     "Name": "Shaquille O'Neal",
     "Description": "\"I never worry about the problem. I worry about the solution.\" - Shaquille O'Neal",
     "LessBlur": "true",
@@ -217,9 +217,9 @@
   },
   "crim": {
     "uid": "12",
-    "MusicURL": "https://cdn.nest.rip/uploads/66910061-477d-40ac-a6fb-d9244406e571.mp3",
-    "BackgroundURL": "https://cdn.nest.rip/uploads/53647c86-766f-4b04-bed4-ed7fad4bbcd1.png",
-    "PfpURL": "https://cdn.nest.rip/uploads/be708b45-9d50-44ee-ad49-a17889ecd203.png",
+    "MusicURL": "https://files.pronhub.lol/crimsong.mp3",
+    "BackgroundURL": "https://files.pronhub.lol/crimbackground.webp",
+    "PfpURL": "https://files.pronhub.lol/crimpfp.webp",
     "Name": "crim",
     "Description": "\"Rich, Tall, Charming\"",
     "LessBlur": "true",
