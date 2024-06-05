@@ -122,16 +122,20 @@
     "MusicURL": "https://files.catbox.moe/7iwpv6.mp3"
   },
   "gspu": {
-    "MusicURL": "https://files.catbox.moe/s7b2aq.mp3",
-    "BackgroundURL": "https://usrbg.is-hardly.online/usrbg/v2/700974854605766737?573f=&size=4096",
-    "PfpURL": "https://cdn.discordapp.com/avatars/700974854605766737/1f35c3f34c3fd39b5de217d4f4b1a242.webp?size=4096",
-    "Banner": "https://i.pinimg.com/originals/bd/ac/42/bdac4285eda6bb55590995ec3c26a255.jpg",
+    "MusicURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/c7n3ht33.mp3",
+    "BackgroundURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/on58tcun.mp4",
+    "PfpURL": "https://r2.e-z.host/ee2b5ccf-e34e-4d15-8b67-3aa43c513cc8/xzx8d2zq.gif",
+    "Banner": "https://i.pinimg.com/originals/40/07/f8/4007f8447d22d813c68d71f920663470.jpg",
     "Name": "gspu",
+    "Description": "Let the problem interface",
+    "Blur": "true",
+    "BorderPFP": "true",
+    "BorderSocials": "true",
     "TiltEffect": "true",
     "Rounded": "true",
-    "ClearBlackBackground": true,
-    "Discord": "https://discord.com/users/700974854605766737",
+    "Discord": "<https://discord.com/users/700974854605766737>",
     "Steam": "https://steamcommunity.com/id/SoSpoof/",
+    "Litecoin": "ltc1qtqsu4u6yuk9p66azk29ck39vzm82jrn054x0r4",
     "OG": "true"
   },
   "tepatepagE0UYkIYP7rdlhxKtfsRFrW5ssEXXHA": {
@@ -186,7 +190,7 @@
     "Staff": "true"
   },
   "crim": {
-    "MusicURL": "https://cdn.nest.rip/uploads/4b0b9257-be83-4b4b-8c53-7e096cfbfb49.mp3",
+    "MusicURL": "https://cdn.nest.rip/uploads/66910061-477d-40ac-a6fb-d9244406e571.mp3",
     "BackgroundURL": "https://cdn.nest.rip/uploads/53647c86-766f-4b04-bed4-ed7fad4bbcd1.png",
     "PfpURL": "https://cdn.nest.rip/uploads/be708b45-9d50-44ee-ad49-a17889ecd203.png",
     "Name": "crim",
