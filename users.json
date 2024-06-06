@@ -322,5 +322,17 @@
     "RoundedBorderSocials": "true",
     "OG": "true",
     "Staff": "true"
+  },
+  "crizt": {
+    "uid": "19",
+    "MusicURL": "",
+    "PfpURL": "https://cdn.discordapp.com/avatars/723371630201667646/fcf23007777fa38e52c548b07260725e.webp?size=80",
+    "Name": "crizt",
+    "Description": "Crizt",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "BorderSocials": "true",
+    "OG": "true",
+    "Discord": "https://discord.com/users/723371630201667646"
   }
 }
