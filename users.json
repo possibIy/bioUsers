@@ -308,5 +308,19 @@
     "Spotify": "https://open.spotify.com/user/akpkyy",
     "lastfm": "https://www.last.fm/user/idkdanx",
     "NameMC": "https://namemc.com/profile/idkdanx"
+  },
+  "o": {
+    "uid": "18",
+    "MusicURL": "",
+    "Name": "o",
+    "Description": "hi",
+    "LessBlur": "true",
+    "BorderPFP": "true",
+    "Rounded": "true",
+    "MinecraftFont": "true",
+    "TiltEffect": "true",
+    "RoundedBorderSocials": "true",
+    "OG": "true",
+    "Staff": "true"
   }
 }
